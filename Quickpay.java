@@ -64,7 +64,7 @@ public class Quickpay {
         }
         int successfulTransactions = 0;
         int failedTransactions = 0;
-        for (int z = 0; z < transactionStatuses.length; z++) {
+        for (int z = 0; z < transactionCount; z++) {
             if (transactionStatuses[z] == true) {
                 successfulTransactions++;
 
@@ -660,44 +660,6 @@ public class Quickpay {
         } while (choice != 0);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
