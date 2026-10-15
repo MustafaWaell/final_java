@@ -1,4 +1,4 @@
-Quick Pay
+** EL Metbarmaga MN B.Laban ** Quick Pay
 Project Overview
 Quick Pay is a simple digital wallet simulation made using Java. It allows users to check their balance, transfer money to other users, view their transaction history, and manage favorite contacts.
 The project also has an Admin Panel for managing users and checking transactions.
